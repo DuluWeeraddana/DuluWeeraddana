@@ -12,7 +12,7 @@
 
 <br>
 
-[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://duluweeraddana.github.io)](https://duluweeraddana.github.io)
+[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=DC143C&up_message=DW&url=https://duluweeraddana.github.io)](https://duluweeraddana.github.io)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94712123127)](https://wa.me/+94712123127)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duluweeraddana143@gmail.com)](mailto:duluweeraddana143@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/DuluWeeraddana)](https://github.com/DuluWeeraddana)
