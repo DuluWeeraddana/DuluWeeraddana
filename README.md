@@ -12,7 +12,7 @@
 
 <br>
 
-[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=DC143C&up_message=DW&url=https://duluweeraddana.github.io)](https://duluweeraddana.github.io)
+[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=34b7a7&up_message=DW&url=https://duluweeraddana.github.io)](https://duluweeraddana.github.io)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94712123127)](https://wa.me/+94712123127)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duluweeraddana143@gmail.com)](mailto:duluweeraddana143@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/DuluWeeraddana)](https://github.com/DuluWeeraddana)
@@ -26,9 +26,9 @@
 
 
 <a href="#DuluWeeraddana-title">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=DuluWeeraddana&show_icons=true&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=040404&border_color=DC143C" alt="DuluWeeraddana" align="left" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=DuluWeeraddana&show_icons=true&title_color=34b7a7&icon_color=34b7a7&text_color=ffffff&bg_color=040404&border_color=34b7a7" alt="DuluWeeraddana" align="left" />
 </a>
 
 <a href="#DuluWeeraddana-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuluWeeraddana&title_color=DC143C&text_color=ffffff&icon_color=DC143C&bg_color=040404&langs_count=8&layout=compact&border_color=DC143C" alt="DuluWeeraddana" align="right" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuluWeeraddana&title_color=34b7a7&text_color=ffffff&icon_color=34b7a7&bg_color=040404&langs_count=8&layout=compact&border_color=34b7a7" alt="DuluWeeraddana" align="right" />
 </a>
